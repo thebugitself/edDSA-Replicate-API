@@ -1,6 +1,6 @@
 # EdDSA API Implementation
 
-> This project is for research purposes only.
+> Created for research purposes only.
 
 ## Running Environment
 
